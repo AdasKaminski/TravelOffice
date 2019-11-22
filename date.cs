@@ -13,7 +13,7 @@ namespace ConsoleApp126
         private int year;
 
         public int Day { get => day; set => day = value; }
-        public int Mounth { get => mounth; set => mounth = value; }
+       public int Mounth { get => mounth; set => mounth = value; }
         public int Year { get => year; set => year = value; }
 
         public Date(int day, int mounth, int year)
